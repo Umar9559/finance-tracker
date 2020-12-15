@@ -3,3 +3,44 @@
 // .navbar-brand {
 //     font-size: 3rem;
 // }
+.search-area {
+    padding-top: 50px;
+}
+
+
+.full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+
+.no-right-padding {
+    padding-right: 0 !important;
+}
+.no-left-padding {
+    padding-left: 0 !important;
+}
+.results-block {
+      display: inline-block;
+      margin-bottom: 1rem;
+}
+.logout-button {
+      margin-right: 5px;
+}
+.user-name {
+      margin-top: 3.5px;
+      margin-right: 5px;
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
